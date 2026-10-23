@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "generado": "2026-10-23T21:47:39.661Z",
+  "fecha": "2026-10-23",
+  "tasa": {
+    "valor": 886.2271,
+    "fecha": "2026-10-23"
+  },
+  "cadenas": {
+    "gama": {
+      "leidoEn": "2026-10-23T21:43:11.048Z",
+      "productos": 205,
+      "sha256": "7215a78e7e92162573c7626b81af887b505ab5c7f2e3eb34bea96d267e2a0909",
+      "bytes": 139242,
+      "atrasado": false
+    },
+    "rio": {
+      "leidoEn": "2026-10-23T21:43:52.241Z",
+      "productos": 244,
+      "sha256": "eb3f3125c12da28ae68e2a25916fb6c17c5508293541f08cbef0851eed0e6dc3",
+      "bytes": 83950,
+      "atrasado": false
+    },
+    "luvebras": {
+      "leidoEn": "2026-10-23T21:44:34.372Z",
+      "productos": 139,
+      "sha256": "5a3d3238ea6605012a6a4092521fc403c6b96dba63cf34e57b5a85c85ad3ae9a",
+      "bytes": 69235,
+      "atrasado": false
+    },
+    "paramo": {
+      "leidoEn": "2026-10-23T21:45:21.258Z",
+      "productos": 52,
+      "sha256": "065e0ada2f90461236c5f940922cb1d22747e2b6a5d9b44d33d721a989d81918",
+      "bytes": 13096,
+      "atrasado": false
+    }
+  }
+}
