@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "generado": "2026-10-26T16:27:22.931Z",
-  "fecha": "2026-10-26",
+  "generado": "2026-10-27T15:42:04.285Z",
+  "fecha": "2026-10-27",
   "tasa": {
-    "valor": 886.2271,
-    "fecha": "2026-10-23"
+    "valor": 887.302,
+    "fecha": "2026-10-27"
   },
   "cadenas": {
     "gama": {
-      "leidoEn": "2026-10-26T16:22:33.290Z",
-      "productos": 258,
-      "sha256": "8ab447f664bdc333fa9834f7919a8a3f921a9240d40f33eef4dcdd5cc7a90aa2",
-      "bytes": 174970,
+      "leidoEn": "2026-10-27T15:37:04.040Z",
+      "productos": 265,
+      "sha256": "080b85f499f2d63fb957aa8ac588fcc715a0c6cba8a7634b032a931d689fa58b",
+      "bytes": 179582,
       "atrasado": false,
       "ingredientesAtrasados": {
-        "pechuga": {
+        "higado-pollo": {
           "productos": 1,
-          "leidoEn": "2026-10-25T14:00:39.680Z"
+          "leidoEn": "2026-10-26T16:22:33.290Z"
         },
         "carapacho": {
           "productos": 1,
@@ -25,19 +25,29 @@
       }
     },
     "rio": {
-      "leidoEn": "2026-10-26T16:23:13.772Z",
-      "productos": 286,
-      "sha256": "aa45f71f6b2f14c42f84faf7aba221b1f1591e40679cf0fb3653ff8183853b34",
-      "bytes": 98125,
-      "atrasado": false
-    },
-    "luvebras": {
-      "leidoEn": "2026-10-26T16:23:56.257Z",
-      "productos": 174,
-      "sha256": "1b89d833ac35438b28f9c9460c8feb37c1add95b5fbab88e1ff6b01d39178cf4",
-      "bytes": 86702,
+      "leidoEn": "2026-10-27T15:37:42.625Z",
+      "productos": 287,
+      "sha256": "346f17ff3055792c7b1535bf613b075e933ba9c35a54fa251bd0484a4d2a3518",
+      "bytes": 98256,
       "atrasado": false,
       "ingredientesAtrasados": {
+        "carapacho": {
+          "productos": 1,
+          "leidoEn": "2026-10-26T16:23:13.772Z"
+        }
+      }
+    },
+    "luvebras": {
+      "leidoEn": "2026-10-27T15:38:28.734Z",
+      "productos": 176,
+      "sha256": "f56a9852538c5cba520e12c95e825c7f8113004e6e784affaf6b533bf722cf6d",
+      "bytes": 87776,
+      "atrasado": false,
+      "ingredientesAtrasados": {
+        "cebollin": {
+          "productos": 1,
+          "leidoEn": "2026-10-26T16:23:56.257Z"
+        },
         "higado-pollo": {
           "productos": 1,
           "leidoEn": "2026-10-25T14:02:04.103Z"
@@ -53,10 +63,10 @@
       }
     },
     "paramo": {
-      "leidoEn": "2026-10-26T16:24:41.224Z",
+      "leidoEn": "2026-10-27T15:39:20.031Z",
       "productos": 104,
-      "sha256": "f44799522ffc145d79c154abb40832f8ab1e91f6df2e3c39cc5d55df720ebefe",
-      "bytes": 28278,
+      "sha256": "a091dd2461d866b674dd206c114ac1a9536aa852aa527397f832156c79e854d3",
+      "bytes": 28242,
       "atrasado": false,
       "ingredientesAtrasados": {
         "mortadela": {
@@ -67,7 +77,7 @@
           "productos": 7,
           "leidoEn": "2026-10-21T02:35:14.904Z"
         },
-        "sal": {
+        "salchichas": {
           "productos": 1,
           "leidoEn": "2026-10-21T02:35:14.904Z"
         },
@@ -103,10 +113,6 @@
           "productos": 8,
           "leidoEn": "2026-10-21T02:35:14.904Z"
         },
-        "salchichas": {
-          "productos": 1,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
         "queso-amarillo": {
           "productos": 8,
           "leidoEn": "2026-10-21T02:35:14.904Z"
@@ -116,35 +122,35 @@
   },
   "busqueda": {
     "gama": {
-      "leidoEn": "2026-10-26T16:22:33.290Z",
-      "productos": 2191,
-      "sha256": "a09ebe117f512d1933ac3c2f53ea9831415c21e1dc26a4d6190bfdb2f5a1be23",
-      "bytes": 141657,
-      "gzip": 39118,
+      "leidoEn": "2026-10-27T15:37:04.040Z",
+      "productos": 2247,
+      "sha256": "b4fe80ed64e83f551ca16828bad7601ba7a90dac3713287661c7b7e3012779d0",
+      "bytes": 145087,
+      "gzip": 39975,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-10-26T16:23:13.772Z",
-      "productos": 2697,
-      "sha256": "be8a3942517647f3d9204bf21e0a851184dd051379a85e0133269f78aa0d2682",
-      "bytes": 266873,
-      "gzip": 61677,
+      "leidoEn": "2026-10-27T15:37:42.625Z",
+      "productos": 2696,
+      "sha256": "42c2748b94904a0dd225a0b579d39573d67350f1b455470f3e3efc23c1707fa1",
+      "bytes": 267455,
+      "gzip": 61800,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-10-26T16:23:56.257Z",
-      "productos": 946,
-      "sha256": "2fda0ce2ee315c4e67a483169f9b0d8819c08ff7c42d0b98f6f9e9f50d49708e",
-      "bytes": 139729,
-      "gzip": 52121,
+      "leidoEn": "2026-10-27T15:38:28.734Z",
+      "productos": 945,
+      "sha256": "f675e7fb2dfe024744d9ac99d52c336a7aa8b723f01c7808289dcc9da36f9790",
+      "bytes": 139587,
+      "gzip": 52082,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-10-26T16:24:41.224Z",
-      "productos": 577,
-      "sha256": "1316fda70be43ea8f094cff6657a88909634aa3cdedfa19e01cc172bd01a4eeb",
-      "bytes": 45658,
-      "gzip": 12658,
+      "leidoEn": "2026-10-27T15:39:20.031Z",
+      "productos": 579,
+      "sha256": "a066f73c3c1debee1b8e2e44762bf61e90db733840ee5c93009f5d8b177ff04c",
+      "bytes": 45787,
+      "gzip": 12714,
       "atrasado": false
     }
   }
