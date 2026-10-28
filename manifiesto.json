@@ -1,49 +1,43 @@
 {
   "version": 1,
-  "generado": "2026-10-27T15:42:04.285Z",
-  "fecha": "2026-10-27",
+  "generado": "2026-10-28T16:27:06.958Z",
+  "fecha": "2026-10-28",
   "tasa": {
-    "valor": 887.302,
-    "fecha": "2026-10-27"
+    "valor": 888.1183,
+    "fecha": "2026-10-28"
   },
   "cadenas": {
     "gama": {
-      "leidoEn": "2026-10-27T15:37:04.040Z",
-      "productos": 265,
-      "sha256": "080b85f499f2d63fb957aa8ac588fcc715a0c6cba8a7634b032a931d689fa58b",
-      "bytes": 179582,
+      "leidoEn": "2026-10-28T16:22:01.403Z",
+      "productos": 272,
+      "sha256": "082985e195ca37be6c7b008e5a77bcac0acd1c26f01a82cf78f45c8919a6259b",
+      "bytes": 184292,
       "atrasado": false,
       "ingredientesAtrasados": {
         "higado-pollo": {
           "productos": 1,
           "leidoEn": "2026-10-26T16:22:33.290Z"
-        },
-        "carapacho": {
-          "productos": 1,
-          "leidoEn": "2026-10-20T20:56:07.812Z"
         }
       }
     },
     "rio": {
-      "leidoEn": "2026-10-27T15:37:42.625Z",
-      "productos": 287,
-      "sha256": "346f17ff3055792c7b1535bf613b075e933ba9c35a54fa251bd0484a4d2a3518",
-      "bytes": 98256,
-      "atrasado": false,
-      "ingredientesAtrasados": {
-        "carapacho": {
-          "productos": 1,
-          "leidoEn": "2026-10-26T16:23:13.772Z"
-        }
-      }
+      "leidoEn": "2026-10-28T16:22:47.941Z",
+      "productos": 285,
+      "sha256": "b2f40c8e58adb1a1ed3ee00fbe7fe17224a3e1263631e1486e1c119fdd9e6e7a",
+      "bytes": 97388,
+      "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-10-27T15:38:28.734Z",
-      "productos": 176,
-      "sha256": "f56a9852538c5cba520e12c95e825c7f8113004e6e784affaf6b533bf722cf6d",
-      "bytes": 87776,
+      "leidoEn": "2026-10-28T16:23:34.072Z",
+      "productos": 175,
+      "sha256": "cb17b6ae44ce311236ac8d88c3ca3a2da3f2fd7aab6cd3b370944f3fd82aa377",
+      "bytes": 87459,
       "atrasado": false,
       "ingredientesAtrasados": {
+        "pan-sandwich": {
+          "productos": 1,
+          "leidoEn": "2026-10-27T15:38:28.734Z"
+        },
         "cebollin": {
           "productos": 1,
           "leidoEn": "2026-10-26T16:23:56.257Z"
@@ -55,102 +49,54 @@
         "fresa": {
           "productos": 1,
           "leidoEn": "2026-10-24T13:45:08.621Z"
-        },
-        "carne-molida": {
-          "productos": 1,
-          "leidoEn": "2026-10-20T21:02:04.236Z"
         }
       }
     },
     "paramo": {
-      "leidoEn": "2026-10-27T15:39:20.031Z",
-      "productos": 104,
-      "sha256": "a091dd2461d866b674dd206c114ac1a9536aa852aa527397f832156c79e854d3",
-      "bytes": 28242,
+      "leidoEn": "2026-10-28T16:24:20.908Z",
+      "productos": 65,
+      "sha256": "c2014ef4ae860f500d72193b0d069032a52f061c0f96d06f3ebbbecee077bf8f",
+      "bytes": 16406,
       "atrasado": false,
       "ingredientesAtrasados": {
-        "mortadela": {
-          "productos": 2,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "jamon-pierna": {
-          "productos": 7,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
         "salchichas": {
           "productos": 1,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "carne-molida": {
-          "productos": 1,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "carne-guisar": {
-          "productos": 2,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "bistec": {
-          "productos": 1,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "higado-res": {
-          "productos": 1,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "alas-pollo": {
-          "productos": 1,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "chuleta-cerdo": {
-          "productos": 2,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "jamon-espalda": {
-          "productos": 5,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "jamon-pavo": {
-          "productos": 8,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
-        },
-        "queso-amarillo": {
-          "productos": 8,
-          "leidoEn": "2026-10-21T02:35:14.904Z"
+          "leidoEn": "2026-10-27T15:39:20.031Z"
         }
       }
     }
   },
   "busqueda": {
     "gama": {
-      "leidoEn": "2026-10-27T15:37:04.040Z",
-      "productos": 2247,
-      "sha256": "b4fe80ed64e83f551ca16828bad7601ba7a90dac3713287661c7b7e3012779d0",
-      "bytes": 145087,
-      "gzip": 39975,
+      "leidoEn": "2026-10-28T16:22:01.403Z",
+      "productos": 2309,
+      "sha256": "0330bb11981f9e183046cdce5c89ca577af108c92ea59e6d5dc167b68a5f8943",
+      "bytes": 149259,
+      "gzip": 41110,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-10-27T15:37:42.625Z",
-      "productos": 2696,
-      "sha256": "42c2748b94904a0dd225a0b579d39573d67350f1b455470f3e3efc23c1707fa1",
-      "bytes": 267455,
-      "gzip": 61800,
+      "leidoEn": "2026-10-28T16:22:47.941Z",
+      "productos": 2695,
+      "sha256": "b98e758c0b7c28d7e47a017ef5cc83e81f2951ceba0f6b13c80924fb2ce6cd04",
+      "bytes": 267332,
+      "gzip": 61684,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-10-27T15:38:28.734Z",
+      "leidoEn": "2026-10-28T16:23:34.072Z",
       "productos": 945,
-      "sha256": "f675e7fb2dfe024744d9ac99d52c336a7aa8b723f01c7808289dcc9da36f9790",
-      "bytes": 139587,
-      "gzip": 52082,
+      "sha256": "cb7cec2c21c15f34f897139b2e5e66ff3468a7e54e87a5a098d78310fa74d084",
+      "bytes": 139639,
+      "gzip": 52055,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-10-27T15:39:20.031Z",
-      "productos": 579,
-      "sha256": "a066f73c3c1debee1b8e2e44762bf61e90db733840ee5c93009f5d8b177ff04c",
-      "bytes": 45787,
-      "gzip": 12714,
+      "leidoEn": "2026-10-28T16:24:20.908Z",
+      "productos": 582,
+      "sha256": "dd230aed61e9e62ea24799caf10142e6519ecac4f1bae6ab6672143c180dd0f1",
+      "bytes": 46006,
+      "gzip": 12712,
       "atrasado": false
     }
   }
