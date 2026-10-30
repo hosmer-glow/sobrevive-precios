@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generado": "2026-10-30T21:44:45.930Z",
+  "fecha": "2026-10-30",
+  "tasa": {
+    "valor": 889.2553,
+    "fecha": "2026-10-30"
+  },
+  "cadenas": {
+    "emporium": {
+      "leidoEn": "2026-10-30T21:22:10.853Z",
+      "productos": 105,
+      "sha256": "49ae80294959c1dc4630398f5f74a51be5b5450e79a395faf78ca8e277e3da7e",
+      "bytes": 25164,
+      "atrasado": false
+    }
+  },
+  "busqueda": {
+    "emporium": {
+      "leidoEn": "2026-10-30T21:22:10.853Z",
+      "productos": 879,
+      "sha256": "56fbfdfe29c014eafc9bfca4be8d9dc8bb5532dd9be095bfc66cfcf8f45f64ef",
+      "bytes": 51952,
+      "gzip": 14399,
+      "atrasado": false
+    }
+  },
+  "estado": "ok"
+}
