@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-01T16:36:28.554Z",
+  "generado": "2026-11-01T18:16:22.404Z",
   "fecha": "2026-11-01",
   "tasa": {
     "valor": 889.2553,
@@ -8,24 +8,12 @@
   },
   "cadenas": {
     "gama": {
-      "leidoEn": "2026-11-01T16:30:43.780Z",
-      "productos": 265,
-      "sha256": "f636c55f5e40140518412588065e6f94b3a2378140616814bd883ae91f597921",
-      "bytes": 179538,
+      "leidoEn": "2026-11-01T18:11:08.243Z",
+      "productos": 283,
+      "sha256": "60ce48094bda888a7e219507674621f87910f22696f289bbfc1213248d56a96f",
+      "bytes": 191523,
       "atrasado": false,
       "ingredientesAtrasados": {
-        "yuca": {
-          "productos": 1,
-          "leidoEn": "2026-10-31T15:32:49.810Z"
-        },
-        "cambur": {
-          "productos": 1,
-          "leidoEn": "2026-10-31T15:32:49.810Z"
-        },
-        "limon": {
-          "productos": 1,
-          "leidoEn": "2026-10-31T15:32:49.810Z"
-        },
         "higado-pollo": {
           "productos": 1,
           "leidoEn": "2026-10-26T16:22:33.290Z"
@@ -33,16 +21,16 @@
       }
     },
     "rio": {
-      "leidoEn": "2026-11-01T16:31:24.238Z",
+      "leidoEn": "2026-11-01T18:11:49.127Z",
       "productos": 302,
-      "sha256": "addcd0af921f2f73dad8f25b832c02a866f702abc443ddb4ea8b9dc72d787e4f",
+      "sha256": "9625f00d47db60a3e0f402af76b7dcc0001bce5ca55eb710e348943fb7e6dff5",
       "bytes": 101730,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-01T16:32:07.232Z",
+      "leidoEn": "2026-11-01T18:12:33.214Z",
       "productos": 179,
-      "sha256": "b7bef763896bcb257a27f498c903afe0eb7d5a148c9191783d4f497581a864af",
+      "sha256": "48f24a0fe11e5ad98b780fd4798618bc84f844fa1898dd8a9a45b6043799fb73",
       "bytes": 89442,
       "atrasado": false,
       "ingredientesAtrasados": {
@@ -61,10 +49,10 @@
       }
     },
     "paramo": {
-      "leidoEn": "2026-11-01T16:32:54.090Z",
+      "leidoEn": "2026-11-01T18:13:21.998Z",
       "productos": 128,
-      "sha256": "5a968a92c57ccf85ce93ac39fddd75914f807e627661bbcd48a84d5f506b2c01",
-      "bytes": 32176,
+      "sha256": "3d5fc350360211b53b7eda930db0db506ffdeb8398f9c0cdaab1b0b698bfd566",
+      "bytes": 32181,
       "atrasado": false
     },
     "emporium": {
@@ -78,35 +66,35 @@
   },
   "busqueda": {
     "gama": {
-      "leidoEn": "2026-11-01T16:30:43.780Z",
-      "productos": 2171,
-      "sha256": "a23de2f1d7f809b882b4d7e1d4511d13a2da3dda9ebd968a8c7ede34eba6bab3",
-      "bytes": 140377,
-      "gzip": 38934,
+      "leidoEn": "2026-11-01T18:11:08.243Z",
+      "productos": 2286,
+      "sha256": "650234fad2c06d63e913ddf21c140c780598d75a47f2bff942f22e28c290ffdf",
+      "bytes": 147759,
+      "gzip": 40666,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-01T16:31:24.238Z",
-      "productos": 2698,
-      "sha256": "61b5087bd0da0da6dcf4d71771817f6a9abc4da9ef6e67bc2c00426fda826920",
-      "bytes": 267333,
-      "gzip": 61670,
+      "leidoEn": "2026-11-01T18:11:49.127Z",
+      "productos": 2687,
+      "sha256": "e751f2e63238aaee1f27a7901dfa54d5a2e4b64e208f6f1c6802d73460d0c17b",
+      "bytes": 266215,
+      "gzip": 61468,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-01T16:32:07.232Z",
+      "leidoEn": "2026-11-01T18:12:33.214Z",
       "productos": 919,
-      "sha256": "c8e8f7f8ad2ac563041309e5f3af0011b2659c8527050f6d7f31d577243e757b",
+      "sha256": "58956ad18039b5519f0bb73c9aeb5eb90e0466adacf2adaaa337a3b0a21abd3e",
       "bytes": 135819,
-      "gzip": 50617,
+      "gzip": 50616,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-01T16:32:54.090Z",
+      "leidoEn": "2026-11-01T18:13:21.998Z",
       "productos": 806,
-      "sha256": "d8ce55a170d9a4d1dc1060bada2979191454ef9e4ce27b332dc15b63d0641fee",
-      "bytes": 63485,
-      "gzip": 16784,
+      "sha256": "0fa6a757f4b41af687f3f041ca0460dcb4b508e30336241ebd57ccd199749444",
+      "bytes": 63559,
+      "gzip": 16741,
       "atrasado": false
     },
     "emporium": {
