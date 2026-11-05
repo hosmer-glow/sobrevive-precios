@@ -1,24 +1,30 @@
 {
   "version": 1,
-  "generado": "2026-11-04T17:45:25.581Z",
-  "fecha": "2026-11-04",
+  "generado": "2026-11-05T17:52:02.561Z",
+  "fecha": "2026-11-05",
   "tasa": {
-    "valor": 893.2173,
-    "fecha": "2026-11-04"
+    "valor": 894.8876,
+    "fecha": "2026-11-05"
   },
   "cadenas": {
     "gama": {
-      "leidoEn": "2026-11-04T17:39:05.011Z",
-      "productos": 273,
-      "sha256": "30366e16f22ef4830e9adfc37d2cdd4b7d5cd4b71964f4ecc3231815612ef577",
-      "bytes": 184672,
-      "atrasado": false
+      "leidoEn": "2026-11-05T17:45:24.194Z",
+      "productos": 285,
+      "sha256": "216ea695dffafc9169a3a41ee9bcb986de2f13d5a60d790976f3be2f555fad5f",
+      "bytes": 192671,
+      "atrasado": false,
+      "ingredientesAtrasados": {
+        "mollejas": {
+          "productos": 1,
+          "leidoEn": "2026-11-04T17:39:05.011Z"
+        }
+      }
     },
     "rio": {
-      "leidoEn": "2026-11-04T17:39:40.719Z",
-      "productos": 285,
-      "sha256": "25da7b8a876c6e96f806209452c82aa0ee21368abda4e5b13875d3e63ae419ee",
-      "bytes": 93246,
+      "leidoEn": "2026-11-05T17:46:02.288Z",
+      "productos": 282,
+      "sha256": "aa8c9409d32afa241524746fc5de9b164567b0d077b30d43e2c86bc97f66a941",
+      "bytes": 92724,
       "atrasado": false,
       "ingredientesAtrasados": {
         "pechuga": {
@@ -28,12 +34,20 @@
       }
     },
     "luvebras": {
-      "leidoEn": "2026-11-04T17:40:17.351Z",
-      "productos": 174,
-      "sha256": "0efae8dfaa070028ecb7e7be0016d4fef1cb72001b9e2dbf75f2d1cb2627a0ce",
-      "bytes": 86811,
+      "leidoEn": "2026-11-05T17:46:38.657Z",
+      "productos": 171,
+      "sha256": "74936950ffd8b8078227fa6c7c9058de72f0291bf18204ab9ccab19f6192eaf9",
+      "bytes": 85419,
       "atrasado": false,
       "ingredientesAtrasados": {
+        "fresa": {
+          "productos": 1,
+          "leidoEn": "2026-11-04T17:40:17.351Z"
+        },
+        "cebollin": {
+          "productos": 1,
+          "leidoEn": "2026-11-04T17:40:17.351Z"
+        },
         "pechuga": {
           "productos": 1,
           "leidoEn": "2026-11-03T17:27:51.853Z"
@@ -41,96 +55,105 @@
       }
     },
     "paramo": {
-      "leidoEn": "2026-11-04T17:41:04.572Z",
+      "leidoEn": "2026-11-05T17:47:25.437Z",
       "productos": 144,
-      "sha256": "8908e5b5d9afda98ff000bd86a3b16db99008c383e288f446fcc5036bd4c315f",
-      "bytes": 36273,
+      "sha256": "216da0e30b58a54b8d041d0da78a7949f5b2b7b3a3016bd859913924046309a6",
+      "bytes": 36242,
       "atrasado": false
     },
     "emporium": {
-      "leidoEn": "2026-11-03T14:48:45.598Z",
-      "productos": 230,
-      "sha256": "f27c95971039e1c9e8937afbcd1960dfb34a4731b18a3f7c678cdba57419f644",
-      "bytes": 57523,
+      "leidoEn": "2026-11-05T15:06:55.677Z",
+      "productos": 237,
+      "sha256": "85860b84adb7140ea8f4068cf5ac5d0d08a51f34e140c6c53ce69407542af596",
+      "bytes": 59250,
       "atrasado": false,
       "origen": "emporium"
     }
   },
   "busqueda": {
     "gama": {
-      "leidoEn": "2026-11-04T17:39:05.011Z",
-      "productos": 2259,
-      "sha256": "05b7f30c66492d3d3d6b99f561adaf24eb77c48c3a23d2f359a7ea24f8cd43a6",
-      "bytes": 146071,
-      "gzip": 40389,
+      "leidoEn": "2026-11-05T17:45:24.194Z",
+      "productos": 2323,
+      "sha256": "55cecc2ad35deb74d28ee080085629879b221bf6647c0a4ff3ad535315e7e0ac",
+      "bytes": 149931,
+      "gzip": 41263,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-04T17:39:40.719Z",
-      "productos": 2363,
-      "sha256": "09b3ea2d3dea3a992f70242d9e60fed7159606502c59b86e842e653ec71807fc",
-      "bytes": 233784,
-      "gzip": 54636,
+      "leidoEn": "2026-11-05T17:46:02.288Z",
+      "productos": 2379,
+      "sha256": "be9d112290d9ffebd33508061e28151c109f7ce135b3b94655db562f220a6803",
+      "bytes": 235523,
+      "gzip": 54823,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-04T17:40:17.351Z",
-      "productos": 914,
-      "sha256": "569a72e585641a6da1a123bc4321ee3f64532b038e90efd9cea2fc3eca515906",
-      "bytes": 135179,
-      "gzip": 50369,
+      "leidoEn": "2026-11-05T17:46:38.657Z",
+      "productos": 899,
+      "sha256": "07c711407f3221e1ccb717b5bea75f633ad53ebfe3679d71075170df36fbc6ff",
+      "bytes": 132981,
+      "gzip": 49595,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-04T17:41:04.572Z",
-      "productos": 1045,
-      "sha256": "d78d2c91ac626e3244bd3c5099ea3914291ca7f28b51de323120441785d493d2",
-      "bytes": 82468,
-      "gzip": 20922,
+      "leidoEn": "2026-11-05T17:47:25.437Z",
+      "productos": 1064,
+      "sha256": "0a84a5eea5314e932787e00ed7765976d6d9bd9539ba1155d61d5e17ce873000",
+      "bytes": 83867,
+      "gzip": 21306,
       "atrasado": false
     },
     "emporium": {
-      "leidoEn": "2026-11-03T14:48:45.598Z",
-      "productos": 882,
-      "sha256": "b35637f5e7a101d5ac3572adff0c3903b2593891f33b800270018f8e3478ebe9",
-      "bytes": 52266,
-      "gzip": 14379,
+      "leidoEn": "2026-11-05T15:06:55.677Z",
+      "productos": 891,
+      "sha256": "ec09c8adeb019d2f76f31991d604c3261c1bd0842aa9a6816abdc3c1b186a947",
+      "bytes": 52735,
+      "gzip": 14459,
       "atrasado": false,
       "origen": "emporium"
     }
   },
   "aseo": {
     "gama": {
-      "leidoEn": "2026-11-04T17:39:05.011Z",
-      "productos": 156,
-      "sha256": "662a7df5558cad6cf7cf776245a2099ad0d88d547bb689587b8ff81fe6bc387e",
-      "bytes": 24213,
-      "gzip": 5346,
+      "leidoEn": "2026-11-05T17:45:24.194Z",
+      "productos": 159,
+      "sha256": "dc62170f895431eacd13600de0ec148022e5530f67c79198955c8a0287b8defa",
+      "bytes": 24552,
+      "gzip": 5432,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-04T17:39:40.719Z",
-      "productos": 380,
-      "sha256": "70335355ad417a00d46debc343f0bdda1135a7cf2e563fac60cacbacd9991f53",
-      "bytes": 69961,
-      "gzip": 11871,
+      "leidoEn": "2026-11-05T17:46:02.288Z",
+      "productos": 405,
+      "sha256": "982c67cb73b7607aaf45e6c213a579e5057ceda46e3f7b35e67ac0e01f38e077",
+      "bytes": 74119,
+      "gzip": 12476,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-04T17:40:17.351Z",
-      "productos": 177,
-      "sha256": "58414dd177c22f0112a54399b31ba94f83aec6cfe8862f0a00f3be3a3db2ed8d",
-      "bytes": 43289,
-      "gzip": 12285,
+      "leidoEn": "2026-11-05T17:46:38.657Z",
+      "productos": 173,
+      "sha256": "d593e86a68e895a51c00ca4e693eba2ebfbced3c7a10fd4fbe2cd0bbd9bbd287",
+      "bytes": 42454,
+      "gzip": 11997,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-04T17:41:04.572Z",
-      "productos": 137,
-      "sha256": "265826e56c13cd36c2178589306accf70028b9df9613d39a3c40c4d4489c948d",
-      "bytes": 23464,
-      "gzip": 5201,
+      "leidoEn": "2026-11-05T17:47:25.437Z",
+      "productos": 155,
+      "sha256": "45539b061897df8a25e2d14035d19f64270e6602c33e8cd759aed822df210d4b",
+      "bytes": 25832,
+      "gzip": 5576,
       "atrasado": false
+    },
+    "emporium": {
+      "leidoEn": "2026-11-05T15:06:55.677Z",
+      "productos": 382,
+      "sha256": "fadcd346ffe16c03b110b217c316b906dac76f374fbfdcd90628d95bdf2ee4f9",
+      "bytes": 50078,
+      "gzip": 8811,
+      "atrasado": false,
+      "origen": "emporium"
     }
   }
 }
