@@ -1,37 +1,43 @@
 {
   "version": 1,
-  "generado": "2026-11-03T15:18:16.298Z",
-  "fecha": "2026-11-03",
+  "generado": "2026-11-05T15:53:15.516Z",
+  "fecha": "2026-11-05",
   "tasa": {
-    "valor": 891.1054,
-    "fecha": "2026-11-03"
+    "valor": 894.8876,
+    "fecha": "2026-11-05"
   },
   "cadenas": {
     "emporium": {
-      "leidoEn": "2026-11-03T14:48:45.598Z",
-      "productos": 230,
-      "sha256": "f27c95971039e1c9e8937afbcd1960dfb34a4731b18a3f7c678cdba57419f644",
-      "bytes": 57523,
+      "leidoEn": "2026-11-05T15:06:55.677Z",
+      "productos": 237,
+      "sha256": "85860b84adb7140ea8f4068cf5ac5d0d08a51f34e140c6c53ce69407542af596",
+      "bytes": 59250,
       "atrasado": false,
       "ingredientesAtrasados": {
         "queso-blanco": {
           "productos": 1,
           "leidoEn": "2026-11-01T13:59:00.360Z"
-        },
-        "gallina": {
-          "productos": 1,
-          "leidoEn": "2026-10-31T13:15:04.930Z"
         }
       }
     }
   },
   "busqueda": {
     "emporium": {
-      "leidoEn": "2026-11-03T14:48:45.598Z",
-      "productos": 882,
-      "sha256": "b35637f5e7a101d5ac3572adff0c3903b2593891f33b800270018f8e3478ebe9",
-      "bytes": 52266,
-      "gzip": 14379,
+      "leidoEn": "2026-11-05T15:06:55.677Z",
+      "productos": 891,
+      "sha256": "ec09c8adeb019d2f76f31991d604c3261c1bd0842aa9a6816abdc3c1b186a947",
+      "bytes": 52735,
+      "gzip": 14459,
+      "atrasado": false
+    }
+  },
+  "aseo": {
+    "emporium": {
+      "leidoEn": "2026-11-05T15:06:55.677Z",
+      "productos": 382,
+      "sha256": "fadcd346ffe16c03b110b217c316b906dac76f374fbfdcd90628d95bdf2ee4f9",
+      "bytes": 50078,
+      "gzip": 8811,
       "atrasado": false
     }
   },
