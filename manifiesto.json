@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generado": "2026-11-07T18:50:37.673Z",
-  "fecha": "2026-11-07",
+  "generado": "2026-11-08T16:34:39.385Z",
+  "fecha": "2026-11-08",
   "tasa": {
     "valor": 896.1225,
     "fecha": "2026-11-06"
   },
   "cadenas": {
     "gama": {
-      "leidoEn": "2026-11-07T18:43:54.563Z",
+      "leidoEn": "2026-11-08T16:27:51.629Z",
       "productos": 286,
-      "sha256": "c12821e4250c495386c5d5987956b5f338dd52f3cf5827a5474debe69b171416",
-      "bytes": 193106,
+      "sha256": "fab6791c9c8ded3735784d79eaa66f27cafead7f89b709d9d129ca92c108e91a",
+      "bytes": 193120,
       "atrasado": false,
       "ingredientesAtrasados": {
         "costilla-res": {
@@ -25,10 +25,10 @@
       }
     },
     "rio": {
-      "leidoEn": "2026-11-07T18:44:29.209Z",
-      "productos": 302,
-      "sha256": "3639f0646d6f260ba4b2c9a6d8eb25d3b99a40286ee9695711413508207e8449",
-      "bytes": 100836,
+      "leidoEn": "2026-11-08T16:28:30.794Z",
+      "productos": 299,
+      "sha256": "b4b0310d0d6c0576dee511d20f66605cd397c4d36b935251d43d7a6e8078cdcb",
+      "bytes": 99747,
       "atrasado": false,
       "ingredientesAtrasados": {
         "vino": {
@@ -42,12 +42,24 @@
       }
     },
     "luvebras": {
-      "leidoEn": "2026-11-07T18:45:07.975Z",
-      "productos": 185,
-      "sha256": "04130315cb9a72802d1994d7b67fdd7eff91dea0d268c0ea4c860d30dc4a4657",
-      "bytes": 92565,
+      "leidoEn": "2026-11-08T16:29:08.871Z",
+      "productos": 186,
+      "sha256": "8197019402e8d93d70f0fe7df6deb87c020cde6e21a9e2d9ea11bc4b43b84e0b",
+      "bytes": 93215,
       "atrasado": false,
       "ingredientesAtrasados": {
+        "costilla-res": {
+          "productos": 1,
+          "leidoEn": "2026-11-07T18:45:07.975Z"
+        },
+        "alas-pollo": {
+          "productos": 1,
+          "leidoEn": "2026-11-07T18:45:07.975Z"
+        },
+        "papelon": {
+          "productos": 1,
+          "leidoEn": "2026-11-07T18:45:07.975Z"
+        },
         "vino": {
           "productos": 8,
           "leidoEn": "2026-11-07T16:00:08.677Z"
@@ -55,11 +67,17 @@
       }
     },
     "paramo": {
-      "leidoEn": "2026-11-07T18:45:52.362Z",
-      "productos": 156,
-      "sha256": "fa892e140e062cdf223881500c62fc7ac6bb1e24e42a8adf31def6c71517da2e",
-      "bytes": 39211,
-      "atrasado": false
+      "leidoEn": "2026-11-08T16:29:55.496Z",
+      "productos": 154,
+      "sha256": "9fa90269c7bbd4b7e67c4b4cc07818a9c0b2389e519f9bb3b77b2e5339a4b3f3",
+      "bytes": 38797,
+      "atrasado": false,
+      "ingredientesAtrasados": {
+        "alas-pollo": {
+          "productos": 1,
+          "leidoEn": "2026-11-07T18:45:52.362Z"
+        }
+      }
     },
     "emporium": {
       "leidoEn": "2026-11-07T13:42:40.869Z",
@@ -72,35 +90,35 @@
   },
   "busqueda": {
     "gama": {
-      "leidoEn": "2026-11-07T18:43:54.563Z",
-      "productos": 2340,
-      "sha256": "0cb3d80d7193d4feed05a8e654ad0c4bada3116936d9bcf1b731c754837c3163",
-      "bytes": 151148,
-      "gzip": 41583,
+      "leidoEn": "2026-11-08T16:27:51.629Z",
+      "productos": 2307,
+      "sha256": "a7d40a390670775958b9f85fc00df281a84d8a691ef8c79c568338580e89bc14",
+      "bytes": 149068,
+      "gzip": 41037,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-07T18:44:29.209Z",
-      "productos": 2478,
-      "sha256": "6a2aeb0ab0c7b69958a9e865dfa0aca0704237eeb800821d665a77140e3c8784",
-      "bytes": 245090,
-      "gzip": 56709,
+      "leidoEn": "2026-11-08T16:28:30.794Z",
+      "productos": 2439,
+      "sha256": "1bc6dd113b3e2405b3a894e8d8e9d391a180b4372a4c693c25f6d43fc60c4b6b",
+      "bytes": 241185,
+      "gzip": 55927,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-07T18:45:07.975Z",
-      "productos": 936,
-      "sha256": "6e04c5744180ce46879e09b10c0d12a0c5dfe57456b55b86ad4e9d37369b930b",
-      "bytes": 138076,
-      "gzip": 51379,
+      "leidoEn": "2026-11-08T16:29:08.871Z",
+      "productos": 918,
+      "sha256": "c2ce877ffc023b84773dee296a3d8309aa327c33c21a2e1ea69f23534d9b4450",
+      "bytes": 135471,
+      "gzip": 50484,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-07T18:45:52.362Z",
-      "productos": 1101,
-      "sha256": "6f716734964f22b3e851c5739bf9d9110c2d01583b06235a03fb6386de16ed6b",
-      "bytes": 86811,
-      "gzip": 21962,
+      "leidoEn": "2026-11-08T16:29:55.496Z",
+      "productos": 1093,
+      "sha256": "34b97b90d5a38975699bb749b3277c5ba4605f2a6be89037a0b9298b710a4234",
+      "bytes": 86235,
+      "gzip": 21838,
       "atrasado": false
     },
     "emporium": {
@@ -115,35 +133,35 @@
   },
   "aseo": {
     "gama": {
-      "leidoEn": "2026-11-07T18:43:54.563Z",
-      "productos": 181,
-      "sha256": "2798b5442cbfdfdc2c8d2cdab6368a9175f022fcd73f72d22e8db5492dee02ca",
-      "bytes": 27283,
-      "gzip": 5800,
+      "leidoEn": "2026-11-08T16:27:51.629Z",
+      "productos": 180,
+      "sha256": "f352b7398728ff3c17b03e2279033b35f017320dca8bb9cbbc98552bc859cc88",
+      "bytes": 27169,
+      "gzip": 5786,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-07T18:44:29.209Z",
-      "productos": 436,
-      "sha256": "fd736a60487a74b5ef76b31b36d0fa350f5a5fcf1bcec78555a6140438aacebe",
-      "bytes": 79473,
-      "gzip": 13193,
+      "leidoEn": "2026-11-08T16:28:30.794Z",
+      "productos": 441,
+      "sha256": "5f49ad7fad3e42d87d65a8d197eb7adf82a235d28ad2b1a1749b658ba79c57d2",
+      "bytes": 80357,
+      "gzip": 13272,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-07T18:45:07.975Z",
+      "leidoEn": "2026-11-08T16:29:08.871Z",
       "productos": 188,
-      "sha256": "e7829120ae4e4aa53a90c6d50c3160515370845cc9aafa0cf7a0869a077b360e",
+      "sha256": "c1ee7dd54ad6053883eecfbac38f2f1cf09955631d6c65ab17ae80093e74c645",
       "bytes": 45712,
       "gzip": 12888,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-07T18:45:52.362Z",
-      "productos": 165,
-      "sha256": "73d2fcebb94f265be7d17a172a570e5ede9518a3beefab5af83b4a1e526610d9",
-      "bytes": 27216,
-      "gzip": 5777,
+      "leidoEn": "2026-11-08T16:29:55.496Z",
+      "productos": 161,
+      "sha256": "fd02174bc4a12a45f2109e4a9083a799160d1086b68c1cb8805e9d4e5aa43350",
+      "bytes": 26691,
+      "gzip": 5711,
       "atrasado": false
     },
     "emporium": {
