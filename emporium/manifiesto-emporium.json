@@ -1,37 +1,37 @@
 {
   "version": 1,
-  "generado": "2026-11-13T15:58:13.273Z",
-  "fecha": "2026-11-13",
+  "generado": "2026-11-15T15:20:32.682Z",
+  "fecha": "2026-11-15",
   "tasa": {
     "valor": 911.6243,
     "fecha": "2026-11-13"
   },
   "cadenas": {
     "emporium": {
-      "leidoEn": "2026-11-13T15:03:18.492Z",
-      "productos": 240,
-      "sha256": "ad5d8a172c4dba50a6a9ea99eba7c7e88495f6fcf27074d6872cf519824a70db",
-      "bytes": 59731,
+      "leidoEn": "2026-11-15T14:28:51.015Z",
+      "productos": 246,
+      "sha256": "25b529022a6a983c91b4e6b40c7163f3037fa3e9b09b844aa0dd105ab5738192",
+      "bytes": 61337,
       "atrasado": false
     }
   },
   "busqueda": {
     "emporium": {
-      "leidoEn": "2026-11-13T15:03:18.492Z",
-      "productos": 891,
-      "sha256": "a60adbb8eab593749d0e3aa69f67588293e0698b73c7f75a222d70feb57666bc",
-      "bytes": 52583,
-      "gzip": 14528,
+      "leidoEn": "2026-11-15T14:28:51.015Z",
+      "productos": 871,
+      "sha256": "81d126dcbd0c0de75e82eed01d58f26dfe07d0a25629f3588c121040c7d89f50",
+      "bytes": 51529,
+      "gzip": 14201,
       "atrasado": false
     }
   },
   "aseo": {
     "emporium": {
-      "leidoEn": "2026-11-13T15:03:18.492Z",
-      "productos": 383,
-      "sha256": "441aa158a3e6967cd9a1ef490dd4eaf1a3e909eb51bc5efcc6ccf9c79e25d506",
-      "bytes": 50081,
-      "gzip": 8941,
+      "leidoEn": "2026-11-15T14:28:51.015Z",
+      "productos": 381,
+      "sha256": "6e88a863d7b13b4fd0bfdd7529c0162b0ae7d205ed0cd06ce874fe64a7b2ac50",
+      "bytes": 49916,
+      "gzip": 8929,
       "atrasado": false
     }
   },
