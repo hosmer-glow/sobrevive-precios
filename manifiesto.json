@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-17T04:53:43.774Z",
+  "generado": "2026-11-17T19:47:03.989Z",
   "fecha": "2026-11-17",
   "tasa": {
     "valor": 915.7476,
@@ -8,20 +8,12 @@
   },
   "cadenas": {
     "gama": {
-      "leidoEn": "2026-11-17T04:07:40.984Z",
-      "productos": 292,
-      "sha256": "2e8af7e18f89f67983467d3800f853ddb9e327301da2da0e308e3c62b3ea8ada",
-      "bytes": 197541,
+      "leidoEn": "2026-11-17T18:52:00.659Z",
+      "productos": 291,
+      "sha256": "2b949c7d09ea98eea82eae422d20a56d2241f3d21cd6eb169d18d485826961e6",
+      "bytes": 196775,
       "atrasado": false,
       "ingredientesAtrasados": {
-        "platano": {
-          "productos": 1,
-          "leidoEn": "2026-11-16T19:55:54.320Z"
-        },
-        "cambur": {
-          "productos": 1,
-          "leidoEn": "2026-11-15T16:42:08.616Z"
-        },
         "higado-res": {
           "productos": 1,
           "leidoEn": "2026-11-13T17:25:55.726Z"
@@ -29,10 +21,10 @@
       }
     },
     "rio": {
-      "leidoEn": "2026-11-17T04:08:21.587Z",
+      "leidoEn": "2026-11-17T18:52:39.519Z",
       "productos": 289,
-      "sha256": "b3b3bc1182c1690b3ddcd29ec4ae7e64dcfb10a6ad9a9703e3a656a2deb131d2",
-      "bytes": 89841,
+      "sha256": "3e1d2b420787ab99d24b7147e7a19aedc7306016346d7a88d2753b8e337b9e5e",
+      "bytes": 97365,
       "atrasado": false,
       "ingredientesAtrasados": {
         "gallina": {
@@ -46,12 +38,24 @@
       }
     },
     "luvebras": {
-      "leidoEn": "2026-11-17T04:09:07.127Z",
-      "productos": 179,
-      "sha256": "2ed571acb07193d01e1a333220709db3af398d6ec0e8ab612cf7fef624c957f5",
-      "bytes": 89330,
+      "leidoEn": "2026-11-17T18:53:23.168Z",
+      "productos": 177,
+      "sha256": "94e49adc27aa5ef87818f8e49aef9e3a71144217a0ace2e537a2638440f79262",
+      "bytes": 88507,
       "atrasado": false,
       "ingredientesAtrasados": {
+        "pan-sandwich": {
+          "productos": 1,
+          "leidoEn": "2026-11-17T04:09:07.127Z"
+        },
+        "queso-amarillo": {
+          "productos": 1,
+          "leidoEn": "2026-11-17T04:09:07.127Z"
+        },
+        "limon": {
+          "productos": 1,
+          "leidoEn": "2026-11-17T04:09:07.127Z"
+        },
         "tortilla-trigo": {
           "productos": 1,
           "leidoEn": "2026-11-15T16:43:37.669Z"
@@ -91,208 +95,207 @@
       }
     },
     "paramo": {
-      "leidoEn": "2026-11-17T04:09:55.412Z",
-      "productos": 146,
-      "sha256": "e082b08ae481959bbce5b9af321dc9d58746276d3766fac471baa9941d08d4f3",
-      "bytes": 36776,
+      "leidoEn": "2026-11-17T18:54:11.003Z",
+      "productos": 148,
+      "sha256": "d2eaa0ff3ce9c1e27e1ba5cf8e30a22f69f22a2a80cb5423e6646febc048d83b",
+      "bytes": 37255,
       "atrasado": false,
       "ingredientesAtrasados": {
         "alas-pollo": {
           "productos": 1,
           "leidoEn": "2026-11-14T16:17:32.293Z"
-        },
-        "queso-blanco": {
-          "productos": 1,
-          "leidoEn": "2026-11-10T17:25:30.265Z"
         }
       }
     },
     "chimeneas": {
-      "leidoEn": "2026-11-11T17:40:20.543Z",
+      "leidoEn": "2026-11-17T18:59:00.946Z",
       "productos": 62,
-      "sha256": "d8efdd576337ac18353d8c82adc61c7a9c9ab1451d32bc763df559fe315cb02f",
-      "bytes": 20862,
-      "atrasado": true,
-      "error": "fetch failed"
+      "sha256": "133dd783cff1e51bd9e38ea3703359427056c2180c853bf30482691f1bfea7b2",
+      "bytes": 20868,
+      "atrasado": false
     },
     "fresh-market": {
-      "leidoEn": "2026-11-17T04:16:00.358Z",
+      "leidoEn": "2026-11-17T19:05:59.635Z",
       "productos": 268,
-      "sha256": "501e40a35fa1f1a8002adb2fece03fe3fcb4d2ef40d5457a5e60b9204ef36270",
-      "bytes": 92146,
+      "sha256": "32d20a1f9ca7d62035243c6ef70589c510050cf14afb818acea2d3c3ea3c4421",
+      "bytes": 92169,
       "atrasado": false
     },
     "saas": {
-      "leidoEn": "2026-11-17T04:31:14.032Z",
+      "leidoEn": "2026-11-17T19:21:33.484Z",
       "productos": 111,
-      "sha256": "fc3803cd75709c8a300446b1b3e81465ddd2973a8da94b8fffb1f83144ce6515",
-      "bytes": 27112,
+      "sha256": "03a7c0c32e2f65544976e6810d5300e260f7432fc74600c91345ad26c80638a4",
+      "bytes": 27119,
       "atrasado": false
     },
     "locatel": {
-      "leidoEn": "2026-11-17T04:44:52.597Z",
+      "leidoEn": "2026-11-17T19:37:37.938Z",
       "productos": 27,
-      "sha256": "3eb317c4df762db966598ea2d6aad8433a0357ccbe4e1d6f61386fb43e83fb36",
-      "bytes": 6673,
-      "atrasado": false
+      "sha256": "285d0fb57883974ff90ad9578ddd5b8e0a9e5d4f45b07c3c41b5f48d13327f46",
+      "bytes": 6721,
+      "atrasado": false,
+      "ingredientesAtrasados": {
+        "pasas": {
+          "productos": 1,
+          "leidoEn": "2026-11-17T04:44:52.597Z"
+        }
+      }
     },
     "emporium": {
-      "leidoEn": "2026-11-15T14:28:51.015Z",
-      "productos": 246,
-      "sha256": "25b529022a6a983c91b4e6b40c7163f3037fa3e9b09b844aa0dd105ab5738192",
-      "bytes": 61337,
+      "leidoEn": "2026-11-17T16:38:52.924Z",
+      "productos": 242,
+      "sha256": "b7c93a67c5cd7f292d77e17d846a4f2bacb47d2851a3f8e67fe333a2ffd34833",
+      "bytes": 60350,
       "atrasado": false,
       "origen": "emporium"
     }
   },
   "busqueda": {
     "gama": {
-      "leidoEn": "2026-11-17T04:07:40.984Z",
-      "productos": 2275,
-      "sha256": "d7d622b3038f567745a5aafd111bf249cd915075d9a07864cde475d090405343",
-      "bytes": 146779,
-      "gzip": 40634,
+      "leidoEn": "2026-11-17T18:52:00.659Z",
+      "productos": 2281,
+      "sha256": "103a57258b87bbe46d3563cb354317ebf03f3a5a9e986970ba6db09aadfd64b0",
+      "bytes": 147223,
+      "gzip": 40730,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-17T04:08:21.587Z",
-      "productos": 2451,
-      "sha256": "094c7f19be3f250e51f4b818f61e9f4ad4eb3a71440a5f83ff8746ad9ea1d766",
-      "bytes": 242882,
-      "gzip": 56490,
+      "leidoEn": "2026-11-17T18:52:39.519Z",
+      "productos": 2471,
+      "sha256": "b0668e46a60b3f6fcaa8765a1a2557b9df643e7bb21ca38f7ccfb183d68d373f",
+      "bytes": 244961,
+      "gzip": 56826,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-17T04:09:07.127Z",
-      "productos": 903,
-      "sha256": "1d18b338e1402825d9b15faec8b76ecb5bcf0b6fc82a35f31f86fee08ff64688",
-      "bytes": 133070,
-      "gzip": 49588,
+      "leidoEn": "2026-11-17T18:53:23.168Z",
+      "productos": 891,
+      "sha256": "f544173e3a2374f3f7c7b87c44899dbb8baa4d53a45d50ba3ad9a4c249476d7d",
+      "bytes": 131415,
+      "gzip": 49015,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-17T04:09:55.412Z",
-      "productos": 1071,
-      "sha256": "3caf9f0626cf3f7550b1211bbd54cdbd4a83f96d7699504f91967a418c9f5f44",
-      "bytes": 84804,
-      "gzip": 21489,
+      "leidoEn": "2026-11-17T18:54:11.003Z",
+      "productos": 1095,
+      "sha256": "0d26f40f6311085083b57bc3b210d666c501527186293161f91753b6de944573",
+      "bytes": 86804,
+      "gzip": 21943,
       "atrasado": false
     },
     "chimeneas": {
-      "leidoEn": "2026-11-11T17:40:20.543Z",
+      "leidoEn": "2026-11-17T18:59:00.946Z",
       "productos": 329,
-      "sha256": "ebdb18e4ea7e65b010ce3b19ccd69ac6467c057b58526da237f7155770a43188",
+      "sha256": "95ba905020296342e94f78472bdd6eadf2a4f2537fd232a76fadcca836270b8c",
       "bytes": 29293,
-      "gzip": 11200,
-      "atrasado": true,
-      "error": "fetch failed"
+      "gzip": 11199,
+      "atrasado": false
     },
     "fresh-market": {
-      "leidoEn": "2026-11-17T04:16:00.358Z",
+      "leidoEn": "2026-11-17T19:05:59.635Z",
       "productos": 2708,
-      "sha256": "f2e9b860e29b1d96fb3ee1f86406c107b325ea3ea8b4842408bb6fab3d92fded",
-      "bytes": 299000,
-      "gzip": 76935,
+      "sha256": "0bee1b3284474b8eef9b0f8a8ef8a68291417369c718b42c8c618358e306ae30",
+      "bytes": 299008,
+      "gzip": 76930,
       "atrasado": false
     },
     "saas": {
-      "leidoEn": "2026-11-17T04:31:14.032Z",
+      "leidoEn": "2026-11-17T19:21:33.484Z",
       "productos": 2022,
-      "sha256": "8849044cca3a5637dd5844ded7bf54c77d8d76e7373a91fbae85e723a72c66fd",
-      "bytes": 110210,
-      "gzip": 34898,
+      "sha256": "8e060ff3777bb8e7167f9d0d244e5dd6e67a375621c392fecd5a5c20fb1b3933",
+      "bytes": 110208,
+      "gzip": 34868,
       "atrasado": false
     },
     "locatel": {
-      "leidoEn": "2026-11-17T04:44:52.597Z",
-      "productos": 2194,
-      "sha256": "f6a4b34cad805ed241e140771a706be8981bc1d197874ef9fc329e3e5511f49f",
-      "bytes": 140884,
-      "gzip": 39654,
+      "leidoEn": "2026-11-17T19:37:37.938Z",
+      "productos": 2208,
+      "sha256": "dbd6563b1f77678d43db9f971190e5bafe48deb88da37eaaec7461407c6c219d",
+      "bytes": 141767,
+      "gzip": 39793,
       "atrasado": false
     },
     "emporium": {
-      "leidoEn": "2026-11-15T14:28:51.015Z",
-      "productos": 871,
-      "sha256": "81d126dcbd0c0de75e82eed01d58f26dfe07d0a25629f3588c121040c7d89f50",
-      "bytes": 51529,
-      "gzip": 14201,
+      "leidoEn": "2026-11-17T16:38:52.924Z",
+      "productos": 890,
+      "sha256": "1975b896917f25ad62f2c1d58044912657facf9a04ca4860817d1d34d553764a",
+      "bytes": 52532,
+      "gzip": 14585,
       "atrasado": false,
       "origen": "emporium"
     }
   },
   "aseo": {
     "gama": {
-      "leidoEn": "2026-11-17T04:07:40.984Z",
-      "productos": 157,
-      "sha256": "aae8010ace5216c7627b824feaca9ad1d57324c3cdbaef0308bb75d05e34b3a7",
-      "bytes": 24471,
-      "gzip": 5461,
+      "leidoEn": "2026-11-17T18:52:00.659Z",
+      "productos": 154,
+      "sha256": "694ff72ada305210b1fea8a7e323f9f932cc5f774e6e3c31bfa43c69f0ace641",
+      "bytes": 24080,
+      "gzip": 5417,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-17T04:08:21.587Z",
-      "productos": 420,
-      "sha256": "f3c5ff6aa33d650f162d3a92eb2000b0a9bd0b9b3a111b8af39f08377f7258a8",
-      "bytes": 76054,
-      "gzip": 12746,
+      "leidoEn": "2026-11-17T18:52:39.519Z",
+      "productos": 424,
+      "sha256": "8ea5e18c90e8936bee95797971498e7d3d72b380b2be7b684ab256c19903f440",
+      "bytes": 80582,
+      "gzip": 13239,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-17T04:09:07.127Z",
-      "productos": 187,
-      "sha256": "c43ca7f99aa2b0f1e27f2dd6e6c7d9bd0df808f610f19c602fe751dad7dbf09d",
-      "bytes": 45420,
-      "gzip": 12752,
+      "leidoEn": "2026-11-17T18:53:23.168Z",
+      "productos": 186,
+      "sha256": "8ad78c30a684df7dfa71a537f8d391252a1634b0807f10cb14a8e25489c3089c",
+      "bytes": 45229,
+      "gzip": 12717,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-17T04:09:55.412Z",
+      "leidoEn": "2026-11-17T18:54:11.003Z",
       "productos": 147,
-      "sha256": "ab021e47ccb7158cc93e0799f4b41b6345278e06031898cd82663f0e5ce88b34",
+      "sha256": "6778f5455b7618e9940a46261d8905713e0bfc2d75fc57e8bd5d62ae81b911be",
       "bytes": 24867,
-      "gzip": 5477,
+      "gzip": 5478,
       "atrasado": false
     },
     "chimeneas": {
-      "leidoEn": "2026-11-11T17:40:20.543Z",
+      "leidoEn": "2026-11-17T18:59:00.946Z",
       "productos": 55,
-      "sha256": "4ab51833f3ecdc794d20b045b6326775d0118893e2ab4b7aa870882a0266b71f",
+      "sha256": "a7ef3a2f7f4b4564d60b3b55d3be80729f9a2ac5117db8e49a42d0fe5be1da98",
       "bytes": 13608,
-      "gzip": 3484,
-      "atrasado": true,
-      "error": "fetch failed"
+      "gzip": 3485,
+      "atrasado": false
     },
     "fresh-market": {
-      "leidoEn": "2026-11-17T04:16:00.358Z",
+      "leidoEn": "2026-11-17T19:05:59.635Z",
       "productos": 617,
-      "sha256": "56b2226cdf208ebf07261d0219438634c94d4aecfd32a55fe2d5ee806bf00397",
+      "sha256": "c1dde7d5348ed145f4f3aedbe3c6547f9e8c32d2bae72d21e9bc3f8dd3fe2a3f",
       "bytes": 116738,
       "gzip": 21903,
       "atrasado": false
     },
     "saas": {
-      "leidoEn": "2026-11-17T04:31:14.032Z",
+      "leidoEn": "2026-11-17T19:21:33.484Z",
       "productos": 443,
-      "sha256": "07dcf95a66ad25f214cb07fa13728066276243004859652cb954e87180069cbc",
-      "bytes": 52629,
-      "gzip": 10512,
+      "sha256": "6af613dafca8fd98e7f94d11b2d6cda7c452d062036846d352fd7fd8ac3cecfd",
+      "bytes": 52622,
+      "gzip": 10508,
       "atrasado": false
     },
     "locatel": {
-      "leidoEn": "2026-11-17T04:44:52.597Z",
-      "productos": 446,
-      "sha256": "14c7674a0c50788068135fb554bbdc4a4108454ad4f3d58e8bfca8d306d73e8e",
-      "bytes": 59864,
-      "gzip": 11410,
+      "leidoEn": "2026-11-17T19:37:37.938Z",
+      "productos": 447,
+      "sha256": "dcdc91680cc9c03927a9228a6056e76f21bc8496f7e5dd99c8707427a572f374",
+      "bytes": 60027,
+      "gzip": 11435,
       "atrasado": false
     },
     "emporium": {
-      "leidoEn": "2026-11-15T14:28:51.015Z",
-      "productos": 381,
-      "sha256": "6e88a863d7b13b4fd0bfdd7529c0162b0ae7d205ed0cd06ce874fe64a7b2ac50",
-      "bytes": 49916,
-      "gzip": 8929,
+      "leidoEn": "2026-11-17T16:38:52.924Z",
+      "productos": 393,
+      "sha256": "5f616e28a3be527afd15be13a91ee2cc83325aaf3d790944f8fd9486ae64a81e",
+      "bytes": 51310,
+      "gzip": 9114,
       "atrasado": false,
       "origen": "emporium"
     }
