@@ -1,28 +1,19 @@
 {
   "version": 1,
-  "generado": "2026-11-17T17:30:46.259Z",
-  "fecha": "2026-11-17",
+  "generado": "2026-11-19T16:15:12.415Z",
+  "fecha": "2026-11-19",
   "tasa": {
-    "valor": 915.7476,
-    "fecha": "2026-11-17"
+    "valor": 917.7751,
+    "fecha": "2026-11-19"
   },
   "cadenas": {
     "emporium": {
       "leidoEn": "2026-11-17T16:38:52.924Z",
-      "productos": 242,
-      "sha256": "b7c93a67c5cd7f292d77e17d846a4f2bacb47d2851a3f8e67fe333a2ffd34833",
-      "bytes": 60350,
-      "atrasado": false,
-      "ingredientesAtrasados": {
-        "queso-blanco": {
-          "productos": 1,
-          "leidoEn": "2026-11-15T14:28:51.015Z"
-        },
-        "gallina": {
-          "productos": 1,
-          "leidoEn": "2026-11-15T14:28:51.015Z"
-        }
-      }
+      "productos": 248,
+      "sha256": "a42ba10a50d723f73614615b1597abe0601ee1da128d09e00b6eebd986eb5790",
+      "bytes": 62139,
+      "atrasado": true,
+      "error": "fetch failed"
     }
   },
   "busqueda": {
@@ -32,7 +23,8 @@
       "sha256": "1975b896917f25ad62f2c1d58044912657facf9a04ca4860817d1d34d553764a",
       "bytes": 52532,
       "gzip": 14585,
-      "atrasado": false
+      "atrasado": true,
+      "error": "fetch failed"
     }
   },
   "aseo": {
@@ -42,8 +34,9 @@
       "sha256": "5f616e28a3be527afd15be13a91ee2cc83325aaf3d790944f8fd9486ae64a81e",
       "bytes": 51310,
       "gzip": 9114,
-      "atrasado": false
+      "atrasado": true,
+      "error": "fetch failed"
     }
   },
-  "estado": "ok"
+  "estado": "atrasado"
 }
