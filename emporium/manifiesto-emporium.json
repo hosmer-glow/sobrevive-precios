@@ -1,42 +1,45 @@
 {
   "version": 1,
-  "generado": "2026-11-19T16:15:12.415Z",
-  "fecha": "2026-11-19",
+  "generado": "2026-11-21T15:48:21.639Z",
+  "fecha": "2026-11-21",
   "tasa": {
-    "valor": 917.7751,
-    "fecha": "2026-11-19"
+    "valor": 918.7662,
+    "fecha": "2026-11-20"
   },
   "cadenas": {
     "emporium": {
-      "leidoEn": "2026-11-17T16:38:52.924Z",
+      "leidoEn": "2026-11-21T15:03:24.773Z",
       "productos": 248,
-      "sha256": "a42ba10a50d723f73614615b1597abe0601ee1da128d09e00b6eebd986eb5790",
-      "bytes": 62139,
-      "atrasado": true,
-      "error": "fetch failed"
+      "sha256": "8f40ba05230e7f12319e300889d59fff0d5ddf0602659efea3bb0ce986931435",
+      "bytes": 61821,
+      "atrasado": false,
+      "ingredientesAtrasados": {
+        "queso-blanco": {
+          "productos": 1,
+          "leidoEn": "2026-11-15T14:28:51.015Z"
+        }
+      }
     }
   },
   "busqueda": {
     "emporium": {
-      "leidoEn": "2026-11-17T16:38:52.924Z",
-      "productos": 890,
-      "sha256": "1975b896917f25ad62f2c1d58044912657facf9a04ca4860817d1d34d553764a",
-      "bytes": 52532,
-      "gzip": 14585,
-      "atrasado": true,
-      "error": "fetch failed"
+      "leidoEn": "2026-11-21T15:03:24.773Z",
+      "productos": 931,
+      "sha256": "625be3a5755cdcecd4ac7887009f3413a0d4a786725d60c705e84810f0fa56f8",
+      "bytes": 55009,
+      "gzip": 15203,
+      "atrasado": false
     }
   },
   "aseo": {
     "emporium": {
-      "leidoEn": "2026-11-17T16:38:52.924Z",
-      "productos": 393,
-      "sha256": "5f616e28a3be527afd15be13a91ee2cc83325aaf3d790944f8fd9486ae64a81e",
-      "bytes": 51310,
-      "gzip": 9114,
-      "atrasado": true,
-      "error": "fetch failed"
+      "leidoEn": "2026-11-21T15:03:24.773Z",
+      "productos": 392,
+      "sha256": "56ff9b1ffd1a3ae4e46f097137f23124cc6a48016e5a83e5ba748d93b6c90ffe",
+      "bytes": 51151,
+      "gzip": 9091,
+      "atrasado": false
     }
   },
-  "estado": "atrasado"
+  "estado": "ok"
 }
