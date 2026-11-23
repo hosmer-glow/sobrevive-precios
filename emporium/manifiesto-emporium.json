@@ -1,43 +1,47 @@
 {
   "version": 1,
-  "generado": "2026-11-21T15:48:21.639Z",
-  "fecha": "2026-11-21",
+  "generado": "2026-11-23T20:02:32.948Z",
+  "fecha": "2026-11-23",
   "tasa": {
     "valor": 918.7662,
     "fecha": "2026-11-20"
   },
   "cadenas": {
     "emporium": {
-      "leidoEn": "2026-11-21T15:03:24.773Z",
-      "productos": 248,
-      "sha256": "8f40ba05230e7f12319e300889d59fff0d5ddf0602659efea3bb0ce986931435",
-      "bytes": 61821,
+      "leidoEn": "2026-11-23T18:55:48.784Z",
+      "productos": 246,
+      "sha256": "1cafbe9098a3909ec664b6c214f6dce1f289d8edc20de00b70581ac7d21e6f6a",
+      "bytes": 61466,
       "atrasado": false,
       "ingredientesAtrasados": {
-        "queso-blanco": {
+        "pollo": {
           "productos": 1,
-          "leidoEn": "2026-11-15T14:28:51.015Z"
+          "leidoEn": "2026-11-21T15:03:24.773Z"
+        },
+        "gallina": {
+          "productos": 1,
+          "leidoEn": "2026-11-21T15:03:24.773Z"
         }
       }
     }
   },
   "busqueda": {
     "emporium": {
-      "leidoEn": "2026-11-21T15:03:24.773Z",
-      "productos": 931,
-      "sha256": "625be3a5755cdcecd4ac7887009f3413a0d4a786725d60c705e84810f0fa56f8",
-      "bytes": 55009,
-      "gzip": 15203,
+      "leidoEn": "2026-11-23T18:55:48.784Z",
+      "productos": 879,
+      "sha256": "c15fb25867ab607bf101f46888102e5b3c9014f0498f02d57b0849270dde23d5",
+      "bytes": 52049,
+      "gzip": 14508,
       "atrasado": false
     }
   },
   "aseo": {
     "emporium": {
-      "leidoEn": "2026-11-21T15:03:24.773Z",
-      "productos": 392,
-      "sha256": "56ff9b1ffd1a3ae4e46f097137f23124cc6a48016e5a83e5ba748d93b6c90ffe",
-      "bytes": 51151,
-      "gzip": 9091,
+      "leidoEn": "2026-11-23T18:55:48.784Z",
+      "productos": 391,
+      "sha256": "10a409f4d8f82c68e3361feed13b1c3c6bec7e5bb9c1873d12cd69ee221fff6a",
+      "bytes": 51002,
+      "gzip": 9065,
       "atrasado": false
     }
   },
