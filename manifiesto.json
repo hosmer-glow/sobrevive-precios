@@ -1,37 +1,31 @@
 {
   "version": 1,
-  "generado": "2026-11-24T21:09:37.320Z",
-  "fecha": "2026-11-24",
+  "generado": "2026-11-25T20:18:32.015Z",
+  "fecha": "2026-11-25",
   "tasa": {
-    "valor": 919.8227,
-    "fecha": "2026-11-24"
+    "valor": 922.5637,
+    "fecha": "2026-11-25"
   },
   "cadenas": {
     "gama": {
-      "leidoEn": "2026-11-24T20:26:16.156Z",
+      "leidoEn": "2026-11-25T19:40:02.509Z",
       "productos": 297,
-      "sha256": "b95fe9080710955e1b0a15302488603a554316f6e7e911ecb6559c9f05d0a702",
-      "bytes": 201016,
-      "atrasado": false,
-      "ingredientesAtrasados": {
-        "higado-res": {
-          "productos": 1,
-          "leidoEn": "2026-11-23T21:49:41.890Z"
-        }
-      }
+      "sha256": "bbc7309981c2c28939e2d19844cd9668d13b9d63c413485ca395369c190f0cd8",
+      "bytes": 200938,
+      "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-24T20:26:53.900Z",
-      "productos": 289,
-      "sha256": "28ec6f7c19625583a2545c71a056258c49044811ea24738556c0d2acc5984fa4",
-      "bytes": 96875,
+      "leidoEn": "2026-11-25T19:40:41.452Z",
+      "productos": 286,
+      "sha256": "2774d509255ca2a083ebc416e5c5219572afa01a23e11396c65252c2238477dd",
+      "bytes": 96209,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-24T20:27:39.889Z",
-      "productos": 176,
-      "sha256": "3602a14ecf5f2005cb13ff695cfbcb3f6480ce38dd5c0e2cac53a9d18a296fbe",
-      "bytes": 87470,
+      "leidoEn": "2026-11-25T19:41:27.704Z",
+      "productos": 177,
+      "sha256": "2b3c952118ebaff24973bbc5b429999731407d5f94c19ff63a42510274101c5b",
+      "bytes": 87978,
       "atrasado": false,
       "ingredientesAtrasados": {
         "cilantro": {
@@ -45,10 +39,10 @@
       }
     },
     "paramo": {
-      "leidoEn": "2026-11-24T20:28:33.193Z",
-      "productos": 140,
-      "sha256": "4d920fb0537b178881327a76db18336ffe206c3e7545770a118cc6d0a958bace",
-      "bytes": 35680,
+      "leidoEn": "2026-11-25T19:42:14.529Z",
+      "productos": 142,
+      "sha256": "63c3472dcc7d2f4380bfbf217e92ecc412a88a1c62bbbe1625e4ad1b8811027f",
+      "bytes": 36215,
       "atrasado": false,
       "ingredientesAtrasados": {
         "carne-molida": {
@@ -78,24 +72,24 @@
       }
     },
     "chimeneas": {
-      "leidoEn": "2026-11-24T20:33:19.528Z",
+      "leidoEn": "2026-11-25T19:47:03.610Z",
       "productos": 62,
-      "sha256": "9b20ac2a7f5b5a910757a282454ed135164c22d5ebb6a65f95685d0ffdff91f3",
-      "bytes": 20872,
+      "sha256": "1dcdb0be471d2a0d725fb8213a30a7682b8e325fc451461c15270cf55e496d5b",
+      "bytes": 20863,
       "atrasado": false
     },
     "fresh-market": {
-      "leidoEn": "2026-11-24T20:33:49.024Z",
+      "leidoEn": "2026-11-25T19:47:34.292Z",
       "productos": 268,
-      "sha256": "b1ba367a55c9c81ff5a2e84e62d77c796e1b3691e8fdf1f43e085d7a71e4ae64",
-      "bytes": 92126,
+      "sha256": "4b79b98a3151a18fa74c779c98fd76ce38b547d1ac10691f3623eae85256de91",
+      "bytes": 92138,
       "atrasado": false
     },
     "saas": {
-      "leidoEn": "2026-11-24T20:48:23.479Z",
-      "productos": 110,
-      "sha256": "31fbdd718bfe7b95bd6385236b91e6ed9000a3f99c0f47880340029b6fa97bd6",
-      "bytes": 26980,
+      "leidoEn": "2026-11-25T20:02:54.453Z",
+      "productos": 111,
+      "sha256": "66fcc227b530040c1216a6ba20baa09632d40ef49aaafe23590778ba2cc4f296",
+      "bytes": 27224,
       "atrasado": false,
       "ingredientesAtrasados": {
         "garbanzos": {
@@ -106,75 +100,76 @@
     },
     "locatel": {
       "leidoEn": "2026-11-24T21:01:17.884Z",
-      "productos": 25,
-      "sha256": "8408bac496fa733aba5a6f605f51b40e8db6364908339109c337493b8bce0055",
-      "bytes": 6183,
-      "atrasado": false
+      "productos": 26,
+      "sha256": "b59dd0feee0c9410969d2ee439a146ea0b7dcab7b187b4c4282a3688cd328dc4",
+      "bytes": 6474,
+      "atrasado": true,
+      "error": "HTTP 500 en https://www.locatel.com.ve/robots.txt"
     },
     "emporium": {
-      "leidoEn": "2026-11-23T18:55:48.784Z",
-      "productos": 246,
-      "sha256": "1cafbe9098a3909ec664b6c214f6dce1f289d8edc20de00b70581ac7d21e6f6a",
-      "bytes": 61466,
+      "leidoEn": "2026-11-25T17:45:14.085Z",
+      "productos": 243,
+      "sha256": "d0199fde17b5e37cd3fda7f95a27467ff10da4355ec588725a699bf1028ed29f",
+      "bytes": 60700,
       "atrasado": false,
       "origen": "emporium"
     }
   },
   "busqueda": {
     "gama": {
-      "leidoEn": "2026-11-24T20:26:16.156Z",
-      "productos": 2340,
-      "sha256": "83775bd2c43fa89d1e9a2531f1d8f361765687951f2629ad9778aaa3cef53fd5",
-      "bytes": 150841,
-      "gzip": 41705,
+      "leidoEn": "2026-11-25T19:40:02.509Z",
+      "productos": 2353,
+      "sha256": "069e01ce5105e032e8497f3c973e3a58db676b7c06dad331d8575626d93b193d",
+      "bytes": 151634,
+      "gzip": 41841,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-24T20:26:53.900Z",
-      "productos": 2553,
-      "sha256": "dac6c79606797943fad619c3a84087c4cbda85f05134f1454ece08b5287132d5",
-      "bytes": 253311,
-      "gzip": 58379,
+      "leidoEn": "2026-11-25T19:40:41.452Z",
+      "productos": 2587,
+      "sha256": "dd9250004eb7cc65a8b110905f93564a5086b485a8af7a1036a794d1d8aa75e8",
+      "bytes": 256792,
+      "gzip": 59116,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-24T20:27:39.889Z",
-      "productos": 871,
-      "sha256": "55023330e9fe339ea2994fcc36cb4997ad0117c06a19174719dffb94d4cf2812",
-      "bytes": 128431,
-      "gzip": 47931,
+      "leidoEn": "2026-11-25T19:41:27.704Z",
+      "productos": 862,
+      "sha256": "e8080dafa95d778faf35c2fd6a1ff5ba943a96262bcd9e1e3b64359378aa0ed7",
+      "bytes": 127182,
+      "gzip": 47506,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-24T20:28:33.193Z",
-      "productos": 1062,
-      "sha256": "4b6f506e8c4e91000e5361270b2a6ef8fcc1162180d629f378f0618daf041be0",
-      "bytes": 84410,
-      "gzip": 21367,
+      "leidoEn": "2026-11-25T19:42:14.529Z",
+      "productos": 1064,
+      "sha256": "e25fe2e072e291bc15524b214b4a92055c778066f9adf3ad7f85bd5c28274d03",
+      "bytes": 84581,
+      "gzip": 21491,
       "atrasado": false
     },
     "chimeneas": {
-      "leidoEn": "2026-11-24T20:33:19.528Z",
+      "leidoEn": "2026-11-25T19:47:03.610Z",
       "productos": 329,
-      "sha256": "affcdd6090fea8f47be99fc67328755a7441fc7f74f278841423036b4da8b9fc",
+      "sha256": "3a06368111c2fcbbf3cf46db2cdec2defddbb7637dc6d0f35696f14333b90cdb",
       "bytes": 29293,
       "gzip": 11200,
       "atrasado": false
     },
     "fresh-market": {
-      "leidoEn": "2026-11-24T20:33:49.024Z",
+      "leidoEn": "2026-11-25T19:47:34.292Z",
       "productos": 2708,
-      "sha256": "aea61134b4744a180a2a643a36c30d0ae3e4876bad717e0d62c176336664f3f9",
+      "sha256": "5d40c307a00c80820d215ceb2d21dea886acb4f5d16b69d4d4e5f000ede5cbdf",
       "bytes": 299002,
       "gzip": 76913,
       "atrasado": false
     },
     "saas": {
-      "leidoEn": "2026-11-24T20:48:23.479Z",
-      "productos": 2028,
-      "sha256": "12da579ccc46c1826806c33e6cd3bb3e9dbc3eb704996c761834eebd3519c35f",
-      "bytes": 110496,
-      "gzip": 35061,
+      "leidoEn": "2026-11-25T20:02:54.453Z",
+      "productos": 2022,
+      "sha256": "d591d9c4e6fcbdca209cd12a02a212c0e65d49f48f7e51c1e32587a798201433",
+      "bytes": 110183,
+      "gzip": 34980,
       "atrasado": false
     },
     "locatel": {
@@ -183,73 +178,74 @@
       "sha256": "1e55b7fbdad079923fb2252fbc5e31f5c3c9d766c28f7e5bfec8b6398b12315f",
       "bytes": 140238,
       "gzip": 39147,
-      "atrasado": false
+      "atrasado": true,
+      "error": "HTTP 500 en https://www.locatel.com.ve/robots.txt"
     },
     "emporium": {
-      "leidoEn": "2026-11-23T18:55:48.784Z",
-      "productos": 879,
-      "sha256": "c15fb25867ab607bf101f46888102e5b3c9014f0498f02d57b0849270dde23d5",
-      "bytes": 52049,
-      "gzip": 14508,
+      "leidoEn": "2026-11-25T17:45:14.085Z",
+      "productos": 866,
+      "sha256": "ce6915ffb46d967f391e61ea8da876021473e85c5c36835409029eb6157dcbd5",
+      "bytes": 51290,
+      "gzip": 14236,
       "atrasado": false,
       "origen": "emporium"
     }
   },
   "aseo": {
     "gama": {
-      "leidoEn": "2026-11-24T20:26:16.156Z",
-      "productos": 131,
-      "sha256": "948f76e52e152a14693d374cb008ebfbf2dc0e74a94e2bee3146fadf23663238",
-      "bytes": 21355,
-      "gzip": 4853,
+      "leidoEn": "2026-11-25T19:40:02.509Z",
+      "productos": 138,
+      "sha256": "b3e5c36bfc005fb6d4e3658a70453880e866d88ee3936c9e8b819dcd9d161974",
+      "bytes": 22225,
+      "gzip": 5017,
       "atrasado": false
     },
     "rio": {
-      "leidoEn": "2026-11-24T20:26:53.900Z",
-      "productos": 460,
-      "sha256": "0c0e273c662dfbb8560f10977ab57e221d117792d43dd56d1212486bd08aa01d",
-      "bytes": 86857,
-      "gzip": 14079,
+      "leidoEn": "2026-11-25T19:40:41.452Z",
+      "productos": 464,
+      "sha256": "759dfcf59c65843801b2f36082666a28b4be6d835b871cbc551269f43eef97d6",
+      "bytes": 87782,
+      "gzip": 14175,
       "atrasado": false
     },
     "luvebras": {
-      "leidoEn": "2026-11-24T20:27:39.889Z",
+      "leidoEn": "2026-11-25T19:41:27.704Z",
       "productos": 180,
-      "sha256": "f34065693b8fe6ce684f30c49ecde41e68b8d0a184bd769ab411b63215390490",
+      "sha256": "149c92682e885c43ce507c9b72fe2b1115904a471453122ae0c6a0da04d432f2",
       "bytes": 43991,
       "gzip": 12421,
       "atrasado": false
     },
     "paramo": {
-      "leidoEn": "2026-11-24T20:28:33.193Z",
-      "productos": 139,
-      "sha256": "75f64ee27c44da4be2dd9bec7e411c6b4ea7cac2946dec63509393d1f9990e6b",
-      "bytes": 23747,
-      "gzip": 5291,
+      "leidoEn": "2026-11-25T19:42:14.529Z",
+      "productos": 141,
+      "sha256": "fd175b3785e53d62cf05372fc10018bc925551e7f6700826816c17c2bca219e0",
+      "bytes": 24016,
+      "gzip": 5339,
       "atrasado": false
     },
     "chimeneas": {
-      "leidoEn": "2026-11-24T20:33:19.528Z",
+      "leidoEn": "2026-11-25T19:47:03.610Z",
       "productos": 55,
-      "sha256": "849be6967f189021908a178e051439d6205565c8ea29aa9af46eafa179f68408",
+      "sha256": "0231a1a8392b980787ad375239e8bc9ce0ff6b6b057f876b66ff9fed44ddbd93",
       "bytes": 13608,
       "gzip": 3485,
       "atrasado": false
     },
     "fresh-market": {
-      "leidoEn": "2026-11-24T20:33:49.024Z",
+      "leidoEn": "2026-11-25T19:47:34.292Z",
       "productos": 617,
-      "sha256": "ea3015775012d3fa35a43dbfe02dd1ab5747cd4afe2413f1b69c3651268cff83",
+      "sha256": "b705d83b210ca4fc149dea7e0dbeab4eb9ac63c40969669b2cb5bd08cc068097",
       "bytes": 116517,
-      "gzip": 21856,
+      "gzip": 21858,
       "atrasado": false
     },
     "saas": {
-      "leidoEn": "2026-11-24T20:48:23.479Z",
+      "leidoEn": "2026-11-25T20:02:54.453Z",
       "productos": 443,
-      "sha256": "86aa6c6f478dc2ab67b1f7a580382f1b222ea09a7ac11bfba98ce4c501b9628e",
-      "bytes": 52639,
-      "gzip": 10519,
+      "sha256": "f19ac490ea6531278eebb575b8866b0384c8375291f9ffa0faa7a5901543c3eb",
+      "bytes": 52667,
+      "gzip": 10543,
       "atrasado": false
     },
     "locatel": {
@@ -258,14 +254,15 @@
       "sha256": "f298827b9bef5df3086627c41c7e4062d4bae26445cf6e9303c46efb883456de",
       "bytes": 59471,
       "gzip": 11375,
-      "atrasado": false
+      "atrasado": true,
+      "error": "HTTP 500 en https://www.locatel.com.ve/robots.txt"
     },
     "emporium": {
-      "leidoEn": "2026-11-23T18:55:48.784Z",
-      "productos": 391,
-      "sha256": "10a409f4d8f82c68e3361feed13b1c3c6bec7e5bb9c1873d12cd69ee221fff6a",
-      "bytes": 51002,
-      "gzip": 9065,
+      "leidoEn": "2026-11-25T17:45:14.085Z",
+      "productos": 336,
+      "sha256": "b92ae41b8fbf8062f78d40ba91fb8fca74f04ff7a6d434f9321b69f6646b3f7e",
+      "bytes": 44469,
+      "gzip": 8133,
       "atrasado": false,
       "origen": "emporium"
     }
