@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generado": "2026-11-25T19:01:18.035Z",
-  "fecha": "2026-11-25",
+  "generado": "2026-11-27T18:14:40.439Z",
+  "fecha": "2026-11-27",
   "tasa": {
-    "valor": 922.5637,
-    "fecha": "2026-11-25"
+    "valor": 926.3592,
+    "fecha": "2026-11-27"
   },
   "cadenas": {
     "emporium": {
-      "leidoEn": "2026-11-25T17:45:14.085Z",
-      "productos": 243,
-      "sha256": "d0199fde17b5e37cd3fda7f95a27467ff10da4355ec588725a699bf1028ed29f",
-      "bytes": 60700,
+      "leidoEn": "2026-11-27T17:09:14.079Z",
+      "productos": 239,
+      "sha256": "bedd54aa8aacf8b48a29a8a105413c1d31ff8b72b4da239ed36559dc5e15c417",
+      "bytes": 59655,
       "atrasado": false,
       "ingredientesAtrasados": {
         "pollo": {
@@ -27,21 +27,21 @@
   },
   "busqueda": {
     "emporium": {
-      "leidoEn": "2026-11-25T17:45:14.085Z",
-      "productos": 866,
-      "sha256": "ce6915ffb46d967f391e61ea8da876021473e85c5c36835409029eb6157dcbd5",
-      "bytes": 51290,
-      "gzip": 14236,
+      "leidoEn": "2026-11-27T17:09:14.079Z",
+      "productos": 901,
+      "sha256": "3b91c6caecb3fd4712ad4aad843ab02d292d2b7f02bfc7bfda64f09112e93e64",
+      "bytes": 53319,
+      "gzip": 14702,
       "atrasado": false
     }
   },
   "aseo": {
     "emporium": {
-      "leidoEn": "2026-11-25T17:45:14.085Z",
-      "productos": 336,
-      "sha256": "b92ae41b8fbf8062f78d40ba91fb8fca74f04ff7a6d434f9321b69f6646b3f7e",
-      "bytes": 44469,
-      "gzip": 8133,
+      "leidoEn": "2026-11-27T17:09:14.079Z",
+      "productos": 384,
+      "sha256": "b14f77b63cecd070226e492b3ca7fd9d8b139714eeaf69c201c6689fd7592a36",
+      "bytes": 50229,
+      "gzip": 8982,
       "atrasado": false
     }
   },
